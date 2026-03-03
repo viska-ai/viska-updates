@@ -7,6 +7,54 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.95.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.95.0</h2>
+                    <ul>
+                        <li>Run AI processing entirely on your Mac with new local model support.</li>
+                        <li>Updates now install faster and more reliably in the background.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 19:24:37 +0000</pubDate>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:shortVersionString>0.95.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.95.0/Viska.zip"
+                sparkle:edSignature="Rqt+2bU9NIHCtsCUJY/8Itx731Sv7jYF18d5H2NqFnBSplvFk8dIoTgArY1LhbMJO4q1ZsVmllioZym2aak0Ag=="
+                length="68941633"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
+            <title>Version 0.94.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.94.0</h2>
+                    <ul>
+                        <li>Run transcription entirely on your Mac — no internet required with local AI models.</li>
+                        <li>Browse, download, and switch between local models directly from the menu bar.</li>
+                        <li>Automatic updates now deliver faster with a streamlined release pipeline.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 19:06:10 +0000</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>0.94.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.94.0/Viska.zip"
+                sparkle:edSignature="fxSJepYx5AX6Eo9SuBwIcuxVpiPOFvYJPqlu+AFqQ6TopS6C//mq1cdvL2ZOjYSgJQpr0N8TkSBG/JAE48/HDw=="
+                length="68941428"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 0.93.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +78,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.92.0</title>
             <description>
