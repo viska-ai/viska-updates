@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.89.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.89.0</h2>
+                    <ul>
+                        <li>Attach file paths to your transcriptions with the new File References feature.</li>
+                        <li>Improved onboarding with new toggles, info modals, and smoother animations.</li>
+                        <li>Updated subscription options and branding across the app.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 14:40:18 +0000</pubDate>
+            <sparkle:version>95</sparkle:version>
+            <sparkle:shortVersionString>0.89.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/Viska.zip"
+                sparkle:edSignature="otg0sz1wl1wwXiRmdjLKQVfv75tlq+CwCxd+QFW0eKcQboFZ8+Q7ThM97eQhv7APWYyMeiYc8BPtXdjQGYfKCg=="
+                length="68821506"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.88.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.87.0</title>
             <description>
