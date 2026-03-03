@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.98.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.98.0</h2>
+                    <ul>
+                        <li>The Control Center info panel now shows all available features, including footer actions.</li>
+                        <li>Cleaner floating panel title bar with fewer status icons for a tidier look.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 21:59:42 +0000</pubDate>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>0.98.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.98.0/Viska.zip"
+                sparkle:edSignature="bOCrEPHavjjeIeKCcOT7ep+tvTvGZIRL2mBPy3XxXW2vichhewAC9B04SjDyM1XU0LTG25qDPxIw0JIy4/28Dg=="
+                length="68921160"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.97.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.96.0</title>
             <description>
