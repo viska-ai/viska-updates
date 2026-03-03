@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.93.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.93.0</h2>
+                    <ul>
+                        <li>Say "Quick Text" to instantly type a short note without full transcription mode.</li>
+                        <li>All features are now available to every user, regardless of subscription tier.</li>
+                        <li>Voice command list is now collapsible, keeping the interface clean and focused.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 18:42:49 +0000</pubDate>
+            <sparkle:version>99</sparkle:version>
+            <sparkle:shortVersionString>0.93.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.93.0/Viska.zip"
+                sparkle:edSignature="CmXpOCjO0rHzPDBM2tB0X6vJJ4dmkF4yn6M39ePjSyNd8s/39BpIn7LBBqW+DQeMTnB9XSy3ve7GbaXSrMMDBg=="
+                length="68940960"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.92.0</title>
             <description>
                 <![CDATA[
@@ -23,13 +48,12 @@
             <sparkle:shortVersionString>0.92.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://dl.viska-ai.com/Viska.zip"
+                url="https://dl.viska-ai.com/releases/v0.92.0/Viska.zip"
                 sparkle:edSignature="u6wHNtQ3l263XB/mfkZbBQp1qVRRRTmHrZyUx+beClX3da+y8zy+FNaeHNULWy3sHFFcnV/TXee6q9e06/dtCQ=="
                 length="68887784"
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.91.0</title>
             <description>
@@ -47,7 +71,7 @@
             <sparkle:shortVersionString>0.91.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://dl.viska-ai.com/Viska.zip"
+                url="https://dl.viska-ai.com/releases/v0.91.0/Viska.zip"
                 sparkle:edSignature="ZZR/8xWNaFv7Wv6iufr/b/az2tDfSJO+B6sQVhyW7QAa0IsOAQMA7zoo0QD1Z5o2F7ujqaQ25fair+QKZC5RCQ=="
                 length="68862798"
                 type="application/octet-stream"
@@ -71,7 +95,7 @@
             <sparkle:shortVersionString>0.89.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://dl.viska-ai.com/Viska.zip"
+                url="https://dl.viska-ai.com/releases/v0.89.0/Viska.zip"
                 sparkle:edSignature="otg0sz1wl1wwXiRmdjLKQVfv75tlq+CwCxd+QFW0eKcQboFZ8+Q7ThM97eQhv7APWYyMeiYc8BPtXdjQGYfKCg=="
                 length="68821506"
                 type="application/octet-stream"
@@ -95,7 +119,7 @@
             <sparkle:shortVersionString>0.88.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://dl.viska-ai.com/Viska.zip"
+                url="https://dl.viska-ai.com/releases/v0.88.0/Viska.zip"
                 sparkle:edSignature="kw+pNcBABX29o5rkaPRbMRppP3RrXAKrgx2mf+Qy0ZjjD9Am0ybz0gawGPNfItccObOY++dMaO+9sKylNAaMAw=="
                 length="68745639"
                 type="application/octet-stream"
@@ -905,7 +929,7 @@
                     <h2>What's New in 0.46.0</h2>
                     <ul>
                         <li>New onboarding experience makes getting started with Viska faster and clearer.</li>
-                        <li>Use promo code **VISKA15** to unlock a discount on your subscription.</li>
+                        <li>Check the app for current promotions and discounts on subscriptions.</li>
                         <li>Updated feature overview clearly shows what's included in each plan.</li>
                         <li>Stability and performance improvements.</li>
                     </ul>
