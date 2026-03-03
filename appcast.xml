@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.91.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.91.0</h2>
+                    <ul>
+                        <li>You can now set up a custom sequence of actions to run automatically after each transcription.</li>
+                        <li>File references now open reliably and always show the correct number of attached files.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 15:59:02 +0000</pubDate>
+            <sparkle:version>97</sparkle:version>
+            <sparkle:shortVersionString>0.91.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/Viska.zip"
+                sparkle:edSignature="ZZR/8xWNaFv7Wv6iufr/b/az2tDfSJO+B6sQVhyW7QAa0IsOAQMA7zoo0QD1Z5o2F7ujqaQ25fair+QKZC5RCQ=="
+                length="68862798"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.89.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.88.0</title>
             <description>
