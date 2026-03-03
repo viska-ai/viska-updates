@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.96.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.96.0</h2>
+                    <ul>
+                        <li>Completely redesigned Settings with a cleaner, easier-to-navigate layout.</li>
+                        <li>Voice preview button is now easier to find, placed directly next to the voice selector.</li>
+                        <li>Cleaner Control Center footer with a less cluttered appearance.</li>
+                        <li>General stability and interface improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 20:35:49 +0000</pubDate>
+            <sparkle:version>102</sparkle:version>
+            <sparkle:shortVersionString>0.96.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.96.0/Viska.zip"
+                sparkle:edSignature="iOC7SSfVBSccse5P/2hI8Kr3GfUy9mX22ZZyj2TEZwt7WpCpEWDZ5hDMURU8RRKgFkuwzKiYbrmqOGnCTWdCBQ=="
+                length="68922778"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.95.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.94.0</title>
             <description>
