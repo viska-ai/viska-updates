@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.99.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.99.0</h2>
+                    <ul>
+                        <li>Subscription settings have been redesigned for a cleaner, easier-to-navigate experience.</li>
+                        <li>File References, Task Pipeline, and Quick Text are now part of the Ultra plan.</li>
+                        <li>Translation is now an Ultra-exclusive feature.</li>
+                        <li>Smart Triggers are now available on all plans with no limits.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 23:33:30 +0000</pubDate>
+            <sparkle:version>105</sparkle:version>
+            <sparkle:shortVersionString>0.99.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.99.0/Viska.zip"
+                sparkle:edSignature="AyzZ8kRGv5aSRIF1ltQjH/mpo0fyIgTlNfMpZxe7M79jWAnqT5hef/yjBX02aMYL2Z2y6CNodb/UoG/km/VCCQ=="
+                length="68920836"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.98.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.97.0</title>
             <description>
