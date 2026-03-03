@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.92.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.92.0</h2>
+                    <ul>
+                        <li>Active feature icons now highlight which post-task actions are currently enabled at a glance.</li>
+                        <li>Improved layout and controls in the Task Pipeline for a smoother workflow.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 03 mars 2026 16:49:12 +0000</pubDate>
+            <sparkle:version>98</sparkle:version>
+            <sparkle:shortVersionString>0.92.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/Viska.zip"
+                sparkle:edSignature="u6wHNtQ3l263XB/mfkZbBQp1qVRRRTmHrZyUx+beClX3da+y8zy+FNaeHNULWy3sHFFcnV/TXee6q9e06/dtCQ=="
+                length="68887784"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.91.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.89.0</title>
             <description>
