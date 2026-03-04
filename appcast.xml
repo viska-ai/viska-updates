@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.100.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.100.0</h2>
+                    <ul>
+                        <li>General stability and performance improvements under the hood.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 04 mars 2026 00:42:51 +0000</pubDate>
+            <sparkle:version>106</sparkle:version>
+            <sparkle:shortVersionString>0.100.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.100.0/Viska.zip"
+                sparkle:edSignature="XXmnsFmxYV9hQQ2PSSPiIRlYhwyq8QAEOpecU2eXPTtqaf8HIejMX4qH2czwuB2+/GEy5QUmN1aFDc2zaqKADQ=="
+                length="68921640"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.99.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.98.0</title>
             <description>
