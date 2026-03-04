@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.105.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.105.0</h2>
+                    <ul>
+                        <li>Improved the floating panel layout for a cleaner, more polished appearance.</li>
+                        <li>Fixed onboarding screen spacing and layout for a smoother first-time setup experience.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 04 mars 2026 17:44:53 +0000</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>0.105.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.105.0/Viska.zip"
+                sparkle:edSignature="DcNpQ4ACUJR9Jwmp+TPr5ud9Xl40A29AF8PNjxsAm2g40c66JJXw7+mjBFgMlgTarrlq2PHhNL3Zk4ug3kHrAw=="
+                length="68943772"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.104.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.103.0</title>
             <description>
