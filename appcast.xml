@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.102.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.102.0</h2>
+                    <ul>
+                        <li>Improved the Text Scanner with clearer icons, a help guide, and easier access to settings.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 04 mars 2026 14:43:25 +0000</pubDate>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>0.102.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.102.0/Viska.zip"
+                sparkle:edSignature="oThC6Xg3GCG6t4eji6Mz1Ea1GaqUYc9n+oUX8n8LLficFr07zl4bIYH/IsfJtk2lbhFf88Z7R2RL33Mw5EUTAA=="
+                length="68943213"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.101.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.100.0</title>
             <description>
