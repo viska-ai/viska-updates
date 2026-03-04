@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.101.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.101.0</h2>
+                    <ul>
+                        <li>OCR scans are now saved to history so you can review and reuse them later.</li>
+                        <li>New dedicated settings tab for Annotate OCR — configure it in one place.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 04 mars 2026 11:44:47 +0000</pubDate>
+            <sparkle:version>107</sparkle:version>
+            <sparkle:shortVersionString>0.101.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.101.0/Viska.zip"
+                sparkle:edSignature="yXNmgAA3qBE1TzejaZ/TJVFKIgylttSYjU9fYzXA9JJJWe9fY5opJ4J9nsd53Qv1TscTu465xSHu9edsP3sqAw=="
+                length="68944546"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.100.0</title>
             <description>
                 <![CDATA[
@@ -27,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.99.0</title>
             <description>
