@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.104.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.104.0</h2>
+                    <ul>
+                        <li>Improved onboarding experience with a cleaner, more intuitive setup flow.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 04 mars 2026 16:47:01 +0000</pubDate>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>0.104.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.104.0/Viska.zip"
+                sparkle:edSignature="kUpfzDF+8c2+ChX2pHUAad8xrOztuE3jwEJU4fGqfeWWYMTdoPoanevO478La65tdgZNNntdj99NN7PKWj3bCA=="
+                length="68943742"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.103.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.102.0</title>
             <description>
