@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.103.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.103.0</h2>
+                    <ul>
+                        <li>Annual subscribers now receive gift codes to share with friends for free Pro access.</li>
+                        <li>Active launch promotions are displayed with exact savings and expiration dates.</li>
+                        <li>Yearly subscription options now show total value including discounts and gift codes.</li>
+                        <li>Account settings pane has a cleaner layout with improved subscription overview.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 04 mars 2026 15:29:05 +0000</pubDate>
+            <sparkle:version>109</sparkle:version>
+            <sparkle:shortVersionString>0.103.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.103.0/Viska.zip"
+                sparkle:edSignature="R2uffwVDK66ZyDq9mlFze2hn8tC8oGqSDYeditnG86tdeZHnqw5O8y7/NDP9oIaxpwYeHMrQDzz+IuDbLORZDw=="
+                length="68946135"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.102.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.101.0</title>
             <description>
