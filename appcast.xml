@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.113.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.113.0</h2>
+                    <ul>
+                        <li>The menu bar icon now smoothly pulses in red while recording, instead of blinking.</li>
+                        <li>General stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 06 mars 2026 19:12:01 +0000</pubDate>
+            <sparkle:version>119</sparkle:version>
+            <sparkle:shortVersionString>0.113.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.113.0/Viska.zip"
+                sparkle:edSignature="38kQarx8LrAzmAMCiJBSq4BNrmu5jLSdcGnXR8iq/yTfAWXe+1+p8yV7LWvM+rLBdnPakXt+2lTTmn6q09YeBQ=="
+                length="69535449"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.112.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.111.0</title>
             <description>
