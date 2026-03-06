@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.115.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.115.0</h2>
+                    <ul>
+                        <li>Improved app experience in 32 languages with expanded translations.</li>
+                        <li>Subscription plan features are now more clearly presented and organized.</li>
+                        <li>Settings panels for appearance, OCR, and reports are more polished.</li>
+                        <li>Stability and interface improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 06 mars 2026 22:26:46 +0000</pubDate>
+            <sparkle:version>121</sparkle:version>
+            <sparkle:shortVersionString>0.115.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.115.0/Viska.zip"
+                sparkle:edSignature="FrC1iI6x0KUd1n3CUxLHjE8vVg4GeUiLuUTGOp9pEqws0CMsn/jRQCv2zIMhm3e7sLvxMY0XsIpy/m03uLyEAA=="
+                length="69563760"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.114.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.113.0</title>
             <description>
