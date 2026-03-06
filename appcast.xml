@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.118.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.118.0</h2>
+                    <ul>
+                        <li>Browse and download local AI models directly from within the app.</li>
+                        <li>Added support for more languages when using local speech recognition.</li>
+                        <li>New translations added for additional interface languages.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 06 mars 2026 23:29:21 +0000</pubDate>
+            <sparkle:version>124</sparkle:version>
+            <sparkle:shortVersionString>0.118.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.118.0/Viska.zip"
+                sparkle:edSignature="loEw1cshQ3MxabnrB5mslWHdyrftptRA3J4cjeO+R87LsSXjjj5krXsG0ZRt5Z2+OuAaFWYXk/2c1oKmSj9cBg=="
+                length="69569254"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.115.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.114.0</title>
             <description>
