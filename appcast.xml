@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.112.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.112.0</h2>
+                    <ul>
+                        <li>Improved app update reliability with a streamlined update process.</li>
+                        <li>Faster app startup with a simplified initialization flow.</li>
+                        <li>Updated Terms of Service documentation.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 06 mars 2026 18:46:41 +0000</pubDate>
+            <sparkle:version>118</sparkle:version>
+            <sparkle:shortVersionString>0.112.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.112.0/Viska.zip"
+                sparkle:edSignature="y2fN6fHW8dY96Cl+49cZ/ST6ODonFSU3JdrQX+R75cS0Kn8QbeAfYPti3QATElLNdx98n+9UzkOfUebfVGtgDw=="
+                length="69534436"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.111.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.110.0</title>
             <description>
