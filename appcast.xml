@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.125.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.125.0</h2>
+                    <ul>
+                        <li>Added safeguards to prevent unexpected charges when using AI-powered features.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 07 mars 2026 23:03:25 +0000</pubDate>
+            <sparkle:version>131</sparkle:version>
+            <sparkle:shortVersionString>0.125.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.125.0/Viska.zip"
+                sparkle:edSignature="HsptyR+b2ZkKzmhrxLd40z+hwKWkQ7l2D6SGz7R8q0S0znuaMJB48luid04+RoPPSLJYo/6kvLBr4dsyX55XCA=="
+                length="69706181"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.124.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.123.0</title>
             <description>
