@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.123.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.123.0</h2>
+                    <ul>
+                        <li>Subscription settings now show your plan, start date, and renewal or cancellation date clearly.</li>
+                        <li>Promotional discount codes are now displayed directly in the upgrade screen with savings breakdown.</li>
+                        <li>Upgrading to Ultra now includes a feature overview popover so you can see what you get before subscribing.</li>
+                        <li>Stability and settings improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 07 mars 2026 21:29:29 +0000</pubDate>
+            <sparkle:version>129</sparkle:version>
+            <sparkle:shortVersionString>0.123.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.123.0/Viska.zip"
+                sparkle:edSignature="SzCHilzBWA+44Vkv+bUbxkwejZNKEJxnpqSUi+3hLZB6toreqffYG5awQ7hm5uqEIGq9qVl1h2yqDwnHeUiNBw=="
+                length="69708262"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.122.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.121.0</title>
             <description>
