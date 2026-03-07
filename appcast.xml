@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.119.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.119.0</h2>
+                    <ul>
+                        <li>Swedish KB-Whisper transcription models are now available and featured in the model browser.</li>
+                        <li>Downloading local models is now more reliable, with improved handling for large files.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 07 mars 2026 00:34:58 +0000</pubDate>
+            <sparkle:version>125</sparkle:version>
+            <sparkle:shortVersionString>0.119.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.119.0/Viska.zip"
+                sparkle:edSignature="fuihsnwAonpAe1LRtWsict/CIgpuz9p+oBnDrnQL5Di0muUTl/Ax2KLXlcOEAEnknXC1h4yavxq5jV7nFgHYCw=="
+                length="69603603"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.118.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.115.0</title>
             <description>
