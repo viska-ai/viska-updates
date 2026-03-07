@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.122.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.122.0</h2>
+                    <ul>
+                        <li>Redesigned Floating Panel with a modern Liquid Glass look and feel.</li>
+                        <li>Liquid Glass design now applied to Assistant, Voice Map, Stream Deck, and Reports.</li>
+                        <li>Promo codes screen updated with refreshed styling and smoother interactions.</li>
+                        <li>Onboarding flow polished with consistent icons and improved layout.</li>
+                        <li>Fixed an issue where some Pro and Ultra features could be incorrectly accessed.</li>
+                        <li>Stability and visual improvements across menus, labels, and compact controls.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 07 mars 2026 20:13:38 +0000</pubDate>
+            <sparkle:version>128</sparkle:version>
+            <sparkle:shortVersionString>0.122.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.122.0/Viska.zip"
+                sparkle:edSignature="h0asM2n3SJimBnRcHWvtculSHJqhliE9jDUG4kcg/24WNHvWEqSQi4bp3g3bXIpmW/fn7ECV+SNfL/Fe5Qx/Bw=="
+                length="69702391"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.121.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.120.0</title>
             <description>
