@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.120.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.120.0</h2>
+                    <ul>
+                        <li>Local speech model downloads are now significantly faster and more reliable.</li>
+                        <li>Feature availability is now shown consistently throughout Settings and the Control Center.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 07 mars 2026 01:18:38 +0000</pubDate>
+            <sparkle:version>126</sparkle:version>
+            <sparkle:shortVersionString>0.120.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.120.0/Viska.zip"
+                sparkle:edSignature="I/lkBn9NvvXUDh24rfNGZPfjf4A8JZ8VtDmIGwBLPWpdJ3dgl7w0K/4yDPrIkZ3ojxXD1hvlHQe9EOW52T8hDA=="
+                length="69601749"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.119.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.118.0</title>
             <description>
