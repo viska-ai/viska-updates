@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.129.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.129.0</h2>
+                    <ul>
+                        <li>Your subscription status now syncs faster and more reliably across devices.</li>
+                        <li>Account information stays up to date automatically in the background.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 08 mars 2026 03:04:30 +0000</pubDate>
+            <sparkle:version>136</sparkle:version>
+            <sparkle:shortVersionString>0.129.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.129.0/Viska.zip"
+                sparkle:edSignature="V173BCcPyVwmYU5A6WOwuSeGUauhz3Ig8gGQVXhLRSUYRw9JEOtJN9RguxnktBmab8+W0AdTfV6oVssmd8afDA=="
+                length="69708592"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.127.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.125.0</title>
             <description>
