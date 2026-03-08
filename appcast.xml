@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.138.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.138.0</h2>
+                    <ul>
+                        <li>Improved layout and visual consistency in the Control Center menu.</li>
+                        <li>Your settings and preferences are now saved and restored more reliably.</li>
+                        <li>Stability and performance improvements to the floating panel.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 08 mars 2026 14:54:23 +0000</pubDate>
+            <sparkle:version>145</sparkle:version>
+            <sparkle:shortVersionString>0.138.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.138.0/Viska.zip"
+                sparkle:edSignature="iVOTv5uq1u5oZBq9+hjrnPzYnsuUYdYlN5FfZ3LOD8wpYuPx9xHEibMdOCm9FUJ6NbhhCNXZZifrhMrjfmpYCA=="
+                length="69856434"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.137.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.136.0</title>
             <description>
