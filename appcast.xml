@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.139.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.139.0</h2>
+                    <ul>
+                        <li>Browse and install local AI models directly from a new in-app model browser.</li>
+                        <li>Choose your preferred local transcription model from the new Settings pane.</li>
+                        <li>Stability and performance improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 08 mars 2026 22:54:09 +0000</pubDate>
+            <sparkle:version>146</sparkle:version>
+            <sparkle:shortVersionString>0.139.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.139.0/Viska.zip"
+                sparkle:edSignature="+b2dP/hLkonTPZCv4fCgr/SnBfwpCSmCfP/mGUgPYvpP+3wJnjgHE3XjHEx13DY8aIiUBiStbWQTWWiedDXwAg=="
+                length="69861401"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.138.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.137.0</title>
             <description>
