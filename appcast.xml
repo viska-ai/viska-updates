@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.130.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.130.0</h2>
+                    <ul>
+                        <li>Improved security for subscription verification and account protection.</li>
+                        <li>Stability and reliability improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 08 mars 2026 07:19:00 +0000</pubDate>
+            <sparkle:version>137</sparkle:version>
+            <sparkle:shortVersionString>0.130.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.130.0/Viska.zip"
+                sparkle:edSignature="yhlRnLvK37+BmFocWqJbNwzRK1RkLiE8pkZG0VwurcjC0ES61UfQ9tsgTNGnKbLCBBKLJrttHlHYspfe4FReDw=="
+                length="69708694"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.129.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.127.0</title>
             <description>
