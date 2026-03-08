@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.137.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.137.0</h2>
+                    <ul>
+                        <li>Redesigned Settings for a cleaner, more organized experience.</li>
+                        <li>New panel size customization options in Appearance settings.</li>
+                        <li>Improved compact Control Center layout with refined row modes.</li>
+                        <li>Updated translations across all supported languages.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 08 mars 2026 14:28:42 +0000</pubDate>
+            <sparkle:version>144</sparkle:version>
+            <sparkle:shortVersionString>0.137.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.137.0/Viska.zip"
+                sparkle:edSignature="IGQN8pvGvTvyOmMvBS8pHTe6qFXj+PXmctJe56B889AwN10r6CR0euTqodKMkEXYt3vstBjCW5kNbHfPbixPAw=="
+                length="69856856"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.136.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.134.0</title>
             <description>
