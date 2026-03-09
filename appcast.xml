@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.142.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.142.0</h2>
+                    <ul>
+                        <li>Stability and performance improvements.</li>
+                        <li>Fixed a layout issue in the compact Control Center panel.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 09 mars 2026 07:51:20 +0000</pubDate>
+            <sparkle:version>149</sparkle:version>
+            <sparkle:shortVersionString>0.142.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.142.0/Viska.zip"
+                sparkle:edSignature="DplgcegRMUDNnE9RWacAvGUi9kXKV4X6FfP2rcIjIXASCcxPmGOvUFfC/gBeEtYJaLqCnKZfvXZc9eC0KOH8DA=="
+                length="69861091"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.139.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.138.0</title>
             <description>
