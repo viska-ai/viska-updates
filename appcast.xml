@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.145.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.145.0</h2>
+                    <ul>
+                        <li>Introducing Viska Pass — earn XP, level up through 25 levels, and unlock cosmetic rewards.</li>
+                        <li>Daily Chest rewards give you something to open every day you use Viska.</li>
+                        <li>Level up to unlock new avatar, sticker, flag, and typography customizations.</li>
+                        <li>Voice mode indicators and recording controls have been redesigned for clarity.</li>
+                        <li>Quick OCR now has a Direct Copy mode that skips the results screen entirely.</li>
+                        <li>Stability and performance improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 10 mars 2026 08:38:05 +0000</pubDate>
+            <sparkle:version>154</sparkle:version>
+            <sparkle:shortVersionString>0.145.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.145.0/Viska.zip"
+                sparkle:edSignature="5IenLgTxBgVhJBJKGTc8cX+7lke0Ax/qLRonworLTBJutGBxnEW9JiJWpKwCOKdy4jmRovenTFEFVa9alz95Aw=="
+                length="70537868"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.142.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.139.0</title>
             <description>
