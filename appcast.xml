@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.147.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.147.0</h2>
+                    <ul>
+                        <li>Fixed a crash that could occur on startup in rare cases.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 10 mars 2026 11:26:41 +0000</pubDate>
+            <sparkle:version>156</sparkle:version>
+            <sparkle:shortVersionString>0.147.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.147.0/Viska.zip"
+                sparkle:edSignature="7r6i6R8dPesHvJyvE3eRjDOObQRlf7Cn0a0PN5YVP4XnfYneZb1Q7X5bikZh5w4wJx4Xiqo16B+2uU2lnYndCw=="
+                length="81518430"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.145.0</title>
             <description>
                 <![CDATA[
