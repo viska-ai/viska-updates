@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.150.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.150.0</h2>
+                    <ul>
+                        <li>Daily Chest rewards now vary by subscription tier, with a pity timer so you always get something good.</li>
+                        <li>Streak shields protect your daily streak when you miss a day.</li>
+                        <li>All users earn rewards when leveling up, regardless of tier.</li>
+                        <li>Stability improvements and fixes for subscription status updates.</li>
+                        <li>General bug fixes and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 10 mars 2026 17:21:12 +0000</pubDate>
+            <sparkle:version>161</sparkle:version>
+            <sparkle:shortVersionString>0.150.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.150.0/Viska.zip"
+                sparkle:edSignature="0QHVmQWbPubwJKDer7sm9OB4x6bnIepPj8HmSPTcgGawD93/MDodv5ED4lqoZ/21rEaTu+StlN6Tg2rrXmtGBw=="
+                length="81400141"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.149.2</title>
             <description>
                 <![CDATA[
@@ -28,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.148.0</title>
             <description>
