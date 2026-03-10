@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.154.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.154.0</h2>
+                    <ul>
+                        <li>Viska Pass screen has been redesigned with a refined layout and updated icons.</li>
+                        <li>Daily Chest card features a new polished look with warm tones and a premium feel.</li>
+                        <li>Reward module backgrounds now consistently reflect your active subscription tier.</li>
+                        <li>Fixed an issue where wager payout amounts could display incorrectly.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 10 mars 2026 23:48:14 +0000</pubDate>
+            <sparkle:version>165</sparkle:version>
+            <sparkle:shortVersionString>0.154.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.154.0/Viska.zip"
+                sparkle:edSignature="faxvYSDdhn6yb7u6Q6qa5MCe3l/J39Tm71mFVVZh659Gvyn8KGUtetfSpLyteXu4yBY8o4NdhQP8qNC3aDV7DQ=="
+                length="82035844"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.153.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.152.0</title>
             <description>
