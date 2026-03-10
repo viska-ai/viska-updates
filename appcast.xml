@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.153.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.153.0</h2>
+                    <ul>
+                        <li>Complete daily and weekly Missions to earn coins and unlock exclusive rewards.</li>
+                        <li>Collect coins and spend them in the new in-app shop to unlock items.</li>
+                        <li>Earn decorations, titles, and other collectibles as you level up.</li>
+                        <li>Free users can now access the Advanced mode toggle again in the control panel.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 10 mars 2026 22:42:15 +0000</pubDate>
+            <sparkle:version>164</sparkle:version>
+            <sparkle:shortVersionString>0.153.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.153.0/Viska.zip"
+                sparkle:edSignature="uFtHzQF3ogogbfJfyTDR7HQl4j6MUFD6KXEm1G4FadpaNFmmBoAeogyr/cOrmn8reYBxo/z4Hp+ZLAXySnoWAQ=="
+                length="81995666"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.152.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.151.0</title>
             <description>
