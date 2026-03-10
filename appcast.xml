@@ -7,30 +7,6 @@
         <language>en</language>
 
         <item>
-            <title>Version 0.146.0</title>
-            <description>
-                <![CDATA[
-                    <h2>What's New in 0.146.0</h2>
-                    <ul>
-                        <li>Subscription plan limits are now correctly enforced via keyboard shortcuts, Stream Deck, and URL actions.</li>
-                        <li>Improved reliability and accuracy of the transcription pipeline.</li>
-                        <li>Stability and performance improvements.</li>
-                    </ul>
-                ]]>
-            </description>
-            <pubDate>tis, 10 mars 2026 10:48:16 +0000</pubDate>
-            <sparkle:version>155</sparkle:version>
-            <sparkle:shortVersionString>0.146.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://dl.viska-ai.com/releases/v0.146.0/Viska.zip"
-                sparkle:edSignature="vhDv4JusequocffLMBkpazPpdCoujLuQRK6xDkTwnxLc5c9Z66JKFyaVBsfWQy1shayPZOl6cDkvGsGsgvpCBQ=="
-                length="81515788"
-                type="application/octet-stream"
-            />
-        </item>
-
-        <item>
             <title>Version 0.145.0</title>
             <description>
                 <![CDATA[
@@ -53,6 +29,29 @@
                 url="https://dl.viska-ai.com/releases/v0.145.0/Viska.zip"
                 sparkle:edSignature="5IenLgTxBgVhJBJKGTc8cX+7lke0Ax/qLRonworLTBJutGBxnEW9JiJWpKwCOKdy4jmRovenTFEFVa9alz95Aw=="
                 length="70537868"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
+            <title>Version 0.146.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.146.0</h2>
+                    <ul>
+                        <li>Subscription plan limits are now correctly enforced via keyboard shortcuts, Stream Deck, and URL actions.</li>
+                        <li>Improved reliability and accuracy of the transcription pipeline.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 10 mars 2026 10:48:16 +0000</pubDate>
+            <sparkle:version>155</sparkle:version>
+            <sparkle:shortVersionString>0.146.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.146.0/Viska.zip"
+                sparkle:edSignature="vhDv4JusequocffLMBkpazPpdCoujLuQRK6xDkTwnxLc5c9Z66JKFyaVBsfWQy1shayPZOl6cDkvGsGsgvpCBQ=="
+                length="81515788"
                 type="application/octet-stream"
             />
         </item>
