@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.149.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.149.2</h2>
+                    <ul>
+                        <li>Stability and performance improvements under the hood.</li>
+                        <li>Build reliability and update delivery enhancements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 10 mars 2026 13:52:55 +0000</pubDate>
+            <sparkle:version>160</sparkle:version>
+            <sparkle:shortVersionString>0.149.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.149.2/Viska.zip"
+                sparkle:edSignature="PsVXBV/BAbJnHbPVSfqAGsj9fjsuPBHUiubKl8Tn7clZnHgpIjoNyKcMsmuZRO0PdzM53VvSVt74izj0ZzrPBA=="
+                length="81514998"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.148.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.145.0</title>
             <description>
