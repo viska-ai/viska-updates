@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.152.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.152.0</h2>
+                    <ul>
+                        <li>Complete daily and weekly missions to earn XP and level up faster.</li>
+                        <li>Unlock backgrounds, visualizers, idle animations, and themes as you progress.</li>
+                        <li>Spend Lucky Coins in the new coin shop to unlock cosmetic items directly.</li>
+                        <li>Earn coins from daily chests and optional streak wagers for bonus payouts.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 10 mars 2026 22:03:56 +0000</pubDate>
+            <sparkle:version>163</sparkle:version>
+            <sparkle:shortVersionString>0.152.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.152.0/Viska.zip"
+                sparkle:edSignature="iTZFFYlp/SeK/kuMY7fLqtut+XJNfCyWNsHR8sXX94OYgSU+SIjII0tIhvMD5Uol4jORDYESftmxzFBePndUCw=="
+                length="81986081"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.151.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.150.0</title>
             <description>
