@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.151.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.151.0</h2>
+                    <ul>
+                        <li>Viska now appears correctly in Launchpad and the Dock.</li>
+                        <li>App is now fully translated into 31 languages with improved translation accuracy.</li>
+                        <li>Recorder panel and general UI polish improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 10 mars 2026 20:31:59 +0000</pubDate>
+            <sparkle:version>162</sparkle:version>
+            <sparkle:shortVersionString>0.151.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.151.0/Viska.zip"
+                sparkle:edSignature="ntageF9PfJnPxeBZrxjoDPKurEctWsAV9mgrAI25lBv4mQgi7yNcCDM1ylHinmU20T9B44sFEAyuUcRPdoqpDA=="
+                length="81738038"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.150.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.149.2</title>
             <description>
