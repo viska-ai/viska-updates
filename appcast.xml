@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.155.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.155.0</h2>
+                    <ul>
+                        <li>Improved iCloud sync reliability and consistency across devices.</li>
+                        <li>Settings now load faster and respond more reliably.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 11 mars 2026 12:59:13 +0000</pubDate>
+            <sparkle:version>166</sparkle:version>
+            <sparkle:shortVersionString>0.155.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.155.0/Viska.zip"
+                sparkle:edSignature="pko5ZTOOZpiN8N8elMsUvUzz26/1dS45Uc9beE6JtbkJ3gTAb5he51SX+Y4M2VgGXcDiI4+I8AASh4PXVQffAg=="
+                length="82027661"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.154.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.153.0</title>
             <description>
