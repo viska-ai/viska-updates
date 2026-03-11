@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.159.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.159.0</h2>
+                    <ul>
+                        <li>New scan overlay appears while OCR captures text from your screen.</li>
+                        <li>Undo deletion notification now matches the scanning toast for a consistent look.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 11 mars 2026 21:17:26 +0000</pubDate>
+            <sparkle:version>170</sparkle:version>
+            <sparkle:shortVersionString>0.159.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.159.0/Viska.zip"
+                sparkle:edSignature="Q+zm9IWHKevqBququAmPPFIF5gBMpGfS0DIsfnIK/wK3r+WnApbIfZIehZIBg0YusF1N+IohKkXGjHpygCBKAg=="
+                length="85700117"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.158.0</title>
             <description>
                 <![CDATA[
@@ -27,7 +50,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.157.0</title>
             <description>
