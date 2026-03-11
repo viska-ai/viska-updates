@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.157.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.157.0</h2>
+                    <ul>
+                        <li>Browse and edit your progression roadmap to see upcoming rewards at every level.</li>
+                        <li>Missions now match your subscription plan so you'll never see an unachievable challenge.</li>
+                        <li>Fixed an issue where the Mission Builder would not open on macOS.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 11 mars 2026 17:36:56 +0000</pubDate>
+            <sparkle:version>168</sparkle:version>
+            <sparkle:shortVersionString>0.157.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.157.0/Viska.zip"
+                sparkle:edSignature="beTl7LQ7Buxp+Lls1+Jno4eyXAy3si8y3VKkccc0S/546wI3UdvIilof8L8TF5KSJ1ePMi/EH75K70x7F/4eBw=="
+                length="85686579"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.156.0</title>
             <description>
                 <![CDATA[
@@ -32,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.155.0</title>
             <description>
