@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.156.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.156.0</h2>
+                    <ul>
+                        <li>Viska Pass is here — unlock missions, earn XP, and open chests with rarity-based rewards.</li>
+                        <li>Chest reveals now play unique sound effects for each rarity tier.</li>
+                        <li>Remote sync keeps your Viska Pass progress up to date across devices.</li>
+                        <li>Administrators can now configure missions, loot, XP, and cosmetics in real time.</li>
+                        <li>Device recognition expanded to cover 170+ Apple devices.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 11 mars 2026 16:41:31 +0000</pubDate>
+            <sparkle:version>167</sparkle:version>
+            <sparkle:shortVersionString>0.156.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.156.0/Viska.zip"
+                sparkle:edSignature="3H9AAVfDDZjvdequimMAQ14mhiQh+fY/X17BOTqoSY+v2w/0t3OQold/5ZLjb33sJwTJpTyHpmIU9WQMpib7CA=="
+                length="85552282"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.155.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.154.0</title>
             <description>
