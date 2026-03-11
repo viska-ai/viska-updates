@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.161.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.161.0</h2>
+                    <ul>
+                        <li>Undo deletion notification has been restyled to match the app's floating panel design.</li>
+                        <li>Visual consistency and polish improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 11 mars 2026 22:03:21 +0000</pubDate>
+            <sparkle:version>172</sparkle:version>
+            <sparkle:shortVersionString>0.161.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.161.0/Viska.zip"
+                sparkle:edSignature="nWJ1U6ddb1N4VvVmbx8wOBPIjLbfCKJtOfdFtdQ3FYpbs7UP9+M3kajxFmIUVJfv/JVB0hOnId75BplwO007Aw=="
+                length="85700519"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.160.0</title>
             <description>
                 <![CDATA[
@@ -27,7 +50,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.159.0</title>
             <description>
