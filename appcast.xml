@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.169.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.169.0</h2>
+                    <ul>
+                        <li>Voice Mode settings have a refreshed, easier-to-navigate interface.</li>
+                        <li>Wake word detection is more reliable with an improved underlying service.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 12 mars 2026 20:42:04 +0000</pubDate>
+            <sparkle:version>180</sparkle:version>
+            <sparkle:shortVersionString>0.169.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.169.0/Viska.zip"
+                sparkle:edSignature="4I54BuMwevJrtK/OGXcIgOfy/Mnbs3rWavhVs0+HvJJahg+HvbZV8ta0+Pa8asC/wZHjz0PhoThdnRCgOhelCA=="
+                length="85753313"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.168.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.167.0</title>
             <description>
