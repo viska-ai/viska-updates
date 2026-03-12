@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.167.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.167.0</h2>
+                    <ul>
+                        <li>Voice command response is now faster and more reliable.</li>
+                        <li>Wake word detection pipeline improved for better accuracy and audio quality.</li>
+                        <li>Quick Text now pastes more consistently across apps.</li>
+                        <li>Daily chest rewards and Shortcuts support enhanced.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 12 mars 2026 16:45:21 +0000</pubDate>
+            <sparkle:version>178</sparkle:version>
+            <sparkle:shortVersionString>0.167.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.167.0/Viska.zip"
+                sparkle:edSignature="SdHc2VGCeottz7SGsSHKMrwetFFmV8wGqeyt3MW5xZ/t8YYHOgJDPzqlzGDp+LjGEV44/8ZGc9F6kx6Is3+DCA=="
+                length="85719036"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.166.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.164.0</title>
             <description>
