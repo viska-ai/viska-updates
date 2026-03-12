@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.164.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.164.0</h2>
+                    <ul>
+                        <li>Daily Chest rewards have been improved with better variety and progression.</li>
+                        <li>Shortcuts integration is now more reliable and responsive.</li>
+                        <li>Stability improvements from removing outdated background services.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 12 mars 2026 02:02:01 +0000</pubDate>
+            <sparkle:version>175</sparkle:version>
+            <sparkle:shortVersionString>0.164.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.164.0/Viska.zip"
+                sparkle:edSignature="WkvmEwbJ++1tWFrdLmSp6JDytldSRKgjAuNI5oTWGq4BNhtkG6uXRIXCaAPJIsoqu/AojVAg58/77vfg/Uw/DQ=="
+                length="85703359"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.163.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.162.0</title>
             <description>
