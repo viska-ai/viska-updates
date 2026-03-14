@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.171.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.171.0</h2>
+                    <ul>
+                        <li>New panel widgets let you control Viska without opening the main window.</li>
+                        <li>Echo cancellation reduces microphone feedback for cleaner recordings.</li>
+                        <li>Audio settings give you more control over input quality and processing.</li>
+                        <li>Voice Mode settings have a cleaner, easier-to-navigate layout.</li>
+                        <li>Stability and performance improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 14 mars 2026 20:54:03 +0000</pubDate>
+            <sparkle:version>182</sparkle:version>
+            <sparkle:shortVersionString>0.171.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.171.0/Viska.zip"
+                sparkle:edSignature="skuIFfP/cbUUYu+zVkQ7gcZc7e8zJyQUNapgQvi6BDynQC+9/BfjxA6up8TPa2OSMjGuGlvg3ejVbZG8LNZHDg=="
+                length="86053854"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.169.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.168.0</title>
             <description>
