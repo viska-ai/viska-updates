@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.172.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.172.0</h2>
+                    <ul>
+                        <li>Customize your panel layout with new widget options for a personalized experience.</li>
+                        <li>New Advanced Mode consolidates power-user settings in one place.</li>
+                        <li>Widget defaults have been improved for a better out-of-the-box experience.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 14 mars 2026 21:55:05 +0000</pubDate>
+            <sparkle:version>183</sparkle:version>
+            <sparkle:shortVersionString>0.172.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.172.0/Viska.zip"
+                sparkle:edSignature="7qEl83aoWVGjdW0DWppSNN0SjhBDaZ+t1nfnVnNXiWtMBbJDpVfpm+mgT4KktwctGi2EJli8kuGQhFz4Jsl+Cg=="
+                length="86059549"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.171.0</title>
             <description>
                 <![CDATA[
@@ -31,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.169.0</title>
             <description>
