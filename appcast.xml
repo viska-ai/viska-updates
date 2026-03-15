@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.177.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.177.0</h2>
+                    <ul>
+                        <li>Removed the system stats widget for a cleaner, more focused experience.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 15 mars 2026 02:00:09 +0000</pubDate>
+            <sparkle:version>188</sparkle:version>
+            <sparkle:shortVersionString>0.177.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.177.0/Viska.zip"
+                sparkle:edSignature="r1gFw8XMunW3gATUm3sGM963Zk85LfzCunfWVNpU93jZ42nl0wMPmzS+Y8zGQx9LsxnLgVk3LGyiw04E5j/cCg=="
+                length="86059564"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.176.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.172.0</title>
             <description>
