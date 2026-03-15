@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.176.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.176.0</h2>
+                    <ul>
+                        <li>New system monitor widget shows live CPU, RAM, disk, and battery stats in your panel.</li>
+                        <li>Appearance settings are now organized into collapsible sections for easier navigation.</li>
+                        <li>Stability and performance improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 15 mars 2026 00:59:11 +0000</pubDate>
+            <sparkle:version>187</sparkle:version>
+            <sparkle:shortVersionString>0.176.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.176.0/Viska.zip"
+                sparkle:edSignature="jjClmXPI7BzTQYEoNGJkn+/1V0hNc3v3eqhlUE8JhFifxrnw2cUsCRa5icdX4sdWBW5g3sMyCyQ/r272E4xaDQ=="
+                length="86060548"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.172.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.171.0</title>
             <description>
