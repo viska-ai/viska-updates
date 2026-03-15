@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.184.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.184.0</h2>
+                    <ul>
+                        <li>Polished Control Center headers for a cleaner, more refined look.</li>
+                        <li>Improved text and translations throughout the app for better clarity.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 15 mars 2026 22:45:30 +0000</pubDate>
+            <sparkle:version>195</sparkle:version>
+            <sparkle:shortVersionString>0.184.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.184.0/Viska.zip"
+                sparkle:edSignature="OwPaPZm0J/AFEVpU91TKgwXuRjuNutR1AQkPeBWYH++ru4trZr8XGZV9oHohBaUoRLJddAtopI2Lytqx+u7zAA=="
+                length="86448113"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.183.0</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.182.0</title>
             <description>
