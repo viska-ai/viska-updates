@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.178.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.178.0</h2>
+                    <ul>
+                        <li>Redesigned Appearance settings with a cleaner, more intuitive layout.</li>
+                        <li>Collapsible sections now show helpful subtitles so you always know what's inside.</li>
+                        <li>Coin Shop settings have been reorganized for easier navigation.</li>
+                        <li>Viska Pass is now off by default for a simpler out-of-the-box experience.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 15 mars 2026 11:19:02 +0000</pubDate>
+            <sparkle:version>189</sparkle:version>
+            <sparkle:shortVersionString>0.178.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.178.0/Viska.zip"
+                sparkle:edSignature="nzv4zR0Nv1kUjFhAn25ZE/hujGGrzICxlp7vW+jeUqqQ4YoANshtdfr98ManguwuXa4TTcFAHG5+j30Zw5HoDg=="
+                length="86107641"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.177.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.176.0</title>
             <description>
