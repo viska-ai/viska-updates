@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.182.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.182.0</h2>
+                    <ul>
+                        <li>New users can now try Ultra free for 15 days directly from the app.</li>
+                        <li>A coin shop lets you redeem earned coins for rewards and upgrades.</li>
+                        <li>Expanded help content across more settings sections for easier navigation.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 15 mars 2026 20:59:41 +0000</pubDate>
+            <sparkle:version>193</sparkle:version>
+            <sparkle:shortVersionString>0.182.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.182.0/Viska.zip"
+                sparkle:edSignature="15kwibNKEGNfw/4OT2bIEskPiyfT13OMGS8nYejGW6SqQaer/QOzCH3se92xel+lz4TE0KL4fhNTnqQ4kUZRCQ=="
+                length="86450157"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.181.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.180.0</title>
             <description>
