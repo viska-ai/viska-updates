@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.181.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.181.0</h2>
+                    <ul>
+                        <li>Simple Mode now shows only the 6 most essential items for a cleaner, focused experience.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 15 mars 2026 18:32:19 +0000</pubDate>
+            <sparkle:version>192</sparkle:version>
+            <sparkle:shortVersionString>0.181.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.181.0/Viska.zip"
+                sparkle:edSignature="B9R1PO3foSvHY7yV9iFHjejELm36JHzxQkNOk4Gpfkucvsl7lZftdEEu+DqzLdczhss3XSiHeBKbPLRaJDpeAQ=="
+                length="86439769"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.180.0</title>
             <description>
                 <![CDATA[
@@ -28,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.178.0</title>
             <description>
