@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.183.0</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.183.0</h2>
+                    <ul>
+                        <li>New in-app help articles added for Journal, Library, Notes, Language, and Rewards settings.</li>
+                        <li>The Coin Shop now includes a preview so you can see rewards before spending.</li>
+                        <li>Improved text and translations throughout the app for better clarity.</li>
+                        <li>General stability and polish improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>sön, 15 mars 2026 22:03:06 +0000</pubDate>
+            <sparkle:version>194</sparkle:version>
+            <sparkle:shortVersionString>0.183.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.183.0/Viska.zip"
+                sparkle:edSignature="849osphm2Rt3gjMOoj4cX1Yn23ZJQcCoVGISqWen9Zg9HJPcVgXpfojE/J466RkyrKh4S8ahrZmIDtnNVRAwBQ=="
+                length="86449586"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.182.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.181.0</title>
             <description>
