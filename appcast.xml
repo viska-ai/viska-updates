@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.3</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.3</h2>
+                    <ul>
+                        <li>Signing in with Apple now works reliably on all Macs, including Developer ID builds.</li>
+                        <li>Onboarding flow is smoother with several display issues resolved.</li>
+                        <li>The success screen after connecting your account now appears correctly.</li>
+                        <li>Stability and security improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 17 apr. 2026 14:34:20 +0000</pubDate>
+            <sparkle:version>202</sparkle:version>
+            <sparkle:shortVersionString>0.185.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.3/Viska.zip"
+                sparkle:edSignature="r8NlbmH0yBLpB2dNymaZ1Op6HEcle9umGQZVT5axpOfBnFVHquszYYUMRKpVq1HJlAZPYV8SGSIDeMJGPqIKCQ=="
+                length="82416371"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.2</title>
             <description>
                 <![CDATA[
@@ -27,7 +52,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.1</title>
             <description>
