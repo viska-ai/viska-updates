@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.8</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.8</h2>
+                    <ul>
+                        <li>Separate toggles now control the Recording Library and Transcript History independently.</li>
+                        <li>"Advanced Mode" has been renamed to "Pro Tools" for clarity.</li>
+                        <li>Fresh installs now start with the right default settings out of the box.</li>
+                        <li>Stability and display improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 17 apr. 2026 21:46:17 +0000</pubDate>
+            <sparkle:version>207</sparkle:version>
+            <sparkle:shortVersionString>0.185.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.8/Viska.zip"
+                sparkle:edSignature="xNm7QC5xOFzyUno/qeoTCYoLEZ84iQpcnIX+mxUpcFZwIvdgMJVblGGevLAgxTRDjauoOCmwJzO/XM0zTCdnBQ=="
+                length="82947861"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.7</title>
             <description>
                 <![CDATA[
@@ -30,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.6</title>
             <description>
