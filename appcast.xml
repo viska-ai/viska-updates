@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.1</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.1</h2>
+                    <ul>
+
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 17 apr. 2026 07:40:36 +0000</pubDate>
+            <sparkle:version>200</sparkle:version>
+            <sparkle:shortVersionString>0.185.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.1/Viska.zip"
+                sparkle:edSignature="h1Z+pGYYfvPZLm47PtiFImvZP6LqO14SwjOhcCVvcjBvIiLdRR3R6+kWjIMqfxGlKps5WDK1TblYCQmtpX6KDQ=="
+                length="82439494"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.184.0</title>
             <description>
                 <![CDATA[
@@ -29,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.183.0</title>
             <description>
