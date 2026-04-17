@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.6</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.6</h2>
+                    <ul>
+                        <li>The app is now fully translated into 32 languages, including all onboarding and history screens.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 17 apr. 2026 16:18:36 +0000</pubDate>
+            <sparkle:version>205</sparkle:version>
+            <sparkle:shortVersionString>0.185.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.6/Viska.zip"
+                sparkle:edSignature="wjuwc1tDKbjKWwtgRNhpajGqtMB5t0gSbkc40GUpdLHUFPxsm6rhDv01mEerMb3Ubt6K/+Ya5KdV+kNfnmYkDQ=="
+                length="82930303"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.5</title>
             <description>
                 <![CDATA[
@@ -28,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.4</title>
             <description>
