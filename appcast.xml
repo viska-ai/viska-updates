@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.2</h2>
+                    <ul>
+                        <li>Fixed an issue where the app would not launch correctly on some Macs after installation.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 17 apr. 2026 10:11:41 +0000</pubDate>
+            <sparkle:version>201</sparkle:version>
+            <sparkle:shortVersionString>0.185.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.2/Viska.zip"
+                sparkle:edSignature="nY19CCyZzd83GfybsnHSb6paUaIelWbsK2VasHjgSwbsx3C8Y7Y0J56qLh6yjMvv7yMHdgq/noL5++eGzFzMAA=="
+                length="82439007"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.1</title>
             <description>
                 <![CDATA[
@@ -27,7 +49,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.184.0</title>
             <description>
