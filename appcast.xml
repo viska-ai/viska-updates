@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.7</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.7</h2>
+                    <ul>
+                        <li>You can now save up to 3 local AI models, with a guided prompt to remove old ones when the limit is reached.</li>
+                        <li>The Control Center header has improved spacing for a cleaner, more polished look.</li>
+                        <li>Experimental settings are now grouped together for easier discovery.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 17 apr. 2026 17:47:40 +0000</pubDate>
+            <sparkle:version>206</sparkle:version>
+            <sparkle:shortVersionString>0.185.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.7/Viska.zip"
+                sparkle:edSignature="98p7nVKEXIkBOWcrzsUpMJxN2R+0HmToFBY8FToho8JYFbZK/dxJNFclxQ6mStkURhcu9jxooAV9GAfMGbo3BA=="
+                length="82935137"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.6</title>
             <description>
                 <![CDATA[
@@ -28,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.5</title>
             <description>
