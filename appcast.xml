@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.9</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.9</h2>
+                    <ul>
+                        <li>New AI Chat lets you have back-and-forth conversations directly in the app.</li>
+                        <li>The audio waveform now stays visible as you work, not just while recording.</li>
+                        <li>You can now send any transcription straight to Notes or Journal with one tap.</li>
+                        <li>Menus have been reorganized for a cleaner, more consistent experience.</li>
+                        <li>Improved sign-in reliability on iPhone and Apple Watch.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 18 apr. 2026 13:52:19 +0000</pubDate>
+            <sparkle:version>208</sparkle:version>
+            <sparkle:shortVersionString>0.185.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.9/Viska.zip"
+                sparkle:edSignature="mu3iuydj0rpfAzkKG5lj+Ifb1Zb5Jc+xFr+6zmlPwFclS759lZVGb5oxn9/DfwKh7vh8av8Dnjc7bVERk2b9CA=="
+                length="83320444"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.8</title>
             <description>
                 <![CDATA[
@@ -30,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.7</title>
             <description>
