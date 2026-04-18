@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.10</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.10</h2>
+                    <ul>
+                        <li>Recording Library has a refreshed, cleaner design that's easier to navigate.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 18 apr. 2026 15:17:02 +0000</pubDate>
+            <sparkle:version>209</sparkle:version>
+            <sparkle:shortVersionString>0.185.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.10/Viska.zip"
+                sparkle:edSignature="841WasyzNB8fYsZToK6fUf59k769LujZvHfsw7PsKCNQTjqpVahuNdFNS8QmkX2c+6zVIsBmyHCexawuRXAEAA=="
+                length="83293544"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.9</title>
             <description>
                 <![CDATA[
@@ -31,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.8</title>
             <description>
