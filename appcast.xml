@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.15</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.15</h2>
+                    <ul>
+                        <li>Four new premium backgrounds added to the Appearance library.</li>
+                        <li>New option to match the app's look to your Dock style automatically.</li>
+                        <li>Simple-mode pill now supports custom background colors and Dock matching.</li>
+                        <li>Image brightness control gets a percentage readout and fine-tune buttons.</li>
+                        <li>The main window and popup now correctly follow Light and Dark mode.</li>
+                        <li>Stability improvements to glass appearance rendering and background customization.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 20 apr. 2026 18:38:48 +0000</pubDate>
+            <sparkle:version>214</sparkle:version>
+            <sparkle:shortVersionString>0.185.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.15/Viska.zip"
+                sparkle:edSignature="1/NOtdOhWnDLAIW1nYkQAB6VBKrsFphq0/GsdyLQ+DZ3QQ39jyFesOTIjNxfg8EmYMYt9XN40huyKzoP1TRmAQ=="
+                length="83528195"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.14</title>
             <description>
                 <![CDATA[
@@ -31,7 +58,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.13</title>
             <description>
