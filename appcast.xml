@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.11</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.11</h2>
+                    <ul>
+                        <li>The docking panel timer now pauses correctly when you pause a recording.</li>
+                        <li>Recordings panel has a cleaner layout with quick rewrite access and simplified tabs.</li>
+                        <li>The docking panel now moves out of the way when you reveal an auto-hiding Dock.</li>
+                        <li>Stability and interface improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 20 apr. 2026 10:38:32 +0000</pubDate>
+            <sparkle:version>210</sparkle:version>
+            <sparkle:shortVersionString>0.185.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.11/Viska.zip"
+                sparkle:edSignature="1kSz+6YvFgVYo4z0wy2VrFDBlWMpzuMC1FTvH2/5YGcDgg5juoqqJFzudyOaMTTbR7bS0ZFWv9I/EVjFYhALCg=="
+                length="83366229"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.10</title>
             <description>
                 <![CDATA[
@@ -28,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.9</title>
             <description>
