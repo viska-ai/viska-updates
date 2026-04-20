@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.14</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.14</h2>
+                    <ul>
+                        <li>Floating panel has a refined look with a polished background and improved appearance.</li>
+                        <li>Recording timer now keeps running when switching between Simple and Advanced views.</li>
+                        <li>Decorations settings no longer clip off-screen — rows now wrap correctly.</li>
+                        <li>Decorations panels have a consistent, unified layout across Widgets, Stickers, and Flags.</li>
+                        <li>Stability and performance improvements throughout.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 20 apr. 2026 15:40:17 +0000</pubDate>
+            <sparkle:version>213</sparkle:version>
+            <sparkle:shortVersionString>0.185.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.14/Viska.zip"
+                sparkle:edSignature="YfN0e43YxCh43dtu8vJIofizb4SKAA/X8TnycdbwO6dZU5u+jHb06lMQfkf9M5zOW4/YNMK8pd+Ecv7o/yKxBw=="
+                length="83386807"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.13</title>
             <description>
                 <![CDATA[
@@ -30,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.12</title>
             <description>
