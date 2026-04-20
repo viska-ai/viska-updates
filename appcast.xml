@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.12</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.12</h2>
+                    <ul>
+                        <li>App now confirms before switching between Simple and Advanced panel modes, with a "Don't ask again" option.</li>
+                        <li>Docking Panel window and Control Center integration have been improved throughout.</li>
+                        <li>Customize the look of your Control Center with new appearance options.</li>
+                        <li>The compact Control Center layout now offers more quick-action choices.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 20 apr. 2026 13:09:00 +0000</pubDate>
+            <sparkle:version>211</sparkle:version>
+            <sparkle:shortVersionString>0.185.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.12/Viska.zip"
+                sparkle:edSignature="KQSu0/vjIVQRVHj1feOuVFXldyoRRI5/A/UOcRXSiH9yRhW0ai3YvuUCly5sLu6O+ekHIKAla4YO45vafvSYDA=="
+                length="83366212"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.11</title>
             <description>
                 <![CDATA[
@@ -30,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.10</title>
             <description>
