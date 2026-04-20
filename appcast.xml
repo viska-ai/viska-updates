@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.16</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.16</h2>
+                    <ul>
+                        <li>New option to disable color-coded mode labels in the menu bar for a cleaner look.</li>
+                        <li>Choose a custom neutral color to replace mode colors throughout the interface.</li>
+                        <li>Four new premium wallpapers: Aurora Purple, Cyber Teal, Neon Pink, and Sunset.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 20 apr. 2026 19:08:05 +0000</pubDate>
+            <sparkle:version>215</sparkle:version>
+            <sparkle:shortVersionString>0.185.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.16/Viska.zip"
+                sparkle:edSignature="g59UsITJvvIVeOY1UtGWRoZ3ZJTQTbqe6WcAePHKyEVTYUXRov9Z3R1xkdkYNERrgq/4KUbM1JpyUGZmafIWAQ=="
+                length="83528233"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.15</title>
             <description>
                 <![CDATA[
@@ -32,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.14</title>
             <description>
