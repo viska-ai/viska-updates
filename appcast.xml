@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.13</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.13</h2>
+                    <ul>
+                        <li>The docked panel now explains hover recording controls: pause, cancel, and resume while recording.</li>
+                        <li>Stability and performance improvements.</li>
+                        <li>The docked panel's info guide now explains how to pause, cancel, and resume recordings.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 20 apr. 2026 13:33:18 +0000</pubDate>
+            <sparkle:version>212</sparkle:version>
+            <sparkle:shortVersionString>0.185.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.13/Viska.zip"
+                sparkle:edSignature="WoQdXhWF7Uum7MWGjOm8f9Xdbn9EZk79gn0CkTceb1Fu+XRn9KXXWQm1Oxx9JH6+RxXhELCUlOAF9ygVeXP5AA=="
+                length="83365749"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.12</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.11</title>
             <description>
