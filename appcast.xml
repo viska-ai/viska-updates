@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.18</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.18</h2>
+                    <ul>
+                        <li>Redesigned AI assistant avatar — a dynamic blue orb with animated pulse and live waveform.</li>
+                        <li>Translation toggle now available directly in the Simple mode docking panel.</li>
+                        <li>History items in the docking panel can now be saved to Notes or translated inline.</li>
+                        <li>Control Center quick-action buttons are now fully localized in all supported languages.</li>
+                        <li>Stability and UI polish improvements across the Control Center and docking panel.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 21 apr. 2026 11:41:36 +0000</pubDate>
+            <sparkle:version>217</sparkle:version>
+            <sparkle:shortVersionString>0.185.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.18/Viska.zip"
+                sparkle:edSignature="4MBejiG9drsCgIFUGfdYD7mPwZdMZECyrWTfk0vVvexg0Ozei/uEL2ZXC1Pk5WGZZC8SO70W5GfxYqh/B779Bw=="
+                length="73301619"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.17</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.16</title>
             <description>
