@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.17</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.17</h2>
+                    <ul>
+                        <li>Docking Panel now supports Regular and Clear glass style options in Appearance settings.</li>
+                        <li>Control Center header adds quick-access buttons for Library, Notes, Journal, Gallery, and more.</li>
+                        <li>Translation toggle is now available directly in the Simple Mode Control Center footer.</li>
+                        <li>Docking Panel glass effect updates live instantly when you change the style.</li>
+                        <li>Stability and visual polish improvements across Control Center and Docking Panel.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 21 apr. 2026 11:07:34 +0000</pubDate>
+            <sparkle:version>216</sparkle:version>
+            <sparkle:shortVersionString>0.185.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.17/Viska.zip"
+                sparkle:edSignature="H05zhY5JT38YgcCIUzDc8NrJTryGJHY6xY8j4OCvcBfg6xuIRFp+8AZD3Tri/stKvhyf2+g7jAJN1MHIFMcMDw=="
+                length="73307886"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.16</title>
             <description>
                 <![CDATA[
@@ -30,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.15</title>
             <description>
