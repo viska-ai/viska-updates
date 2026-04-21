@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.23</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.23</h2>
+                    <ul>
+                        <li>New mic orb with clean Siri-style breathing animation in both Simple and Advanced modes.</li>
+                        <li>Preset sheet and rows are now fully tappable with clearer empty-state guidance.</li>
+                        <li>Translation support expanded with 27 additional languages.</li>
+                        <li>Trial detection now correctly recognizes all trial types.</li>
+                        <li>Stability and interaction improvements across onboarding, output modes, and layout.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 21 apr. 2026 18:07:11 +0000</pubDate>
+            <sparkle:version>222</sparkle:version>
+            <sparkle:shortVersionString>0.185.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.23/Viska.zip"
+                sparkle:edSignature="660UXW+e76wJrykYlOShcbhixR4FL2ivVV9VyFSJFyJwBAJCpNfSMhoISbYosbnvC59klKq6j1kj5Y0SlY7vBw=="
+                length="73348813"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.20</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.19</title>
             <description>
