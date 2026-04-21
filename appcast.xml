@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.20</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.20</h2>
+                    <ul>
+                        <li>Sign-in is now part of the setup flow — new users create an account during onboarding.</li>
+                        <li>Returning users who need to sign in again see a clean, dedicated sign-in screen.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 21 apr. 2026 14:43:54 +0000</pubDate>
+            <sparkle:version>219</sparkle:version>
+            <sparkle:shortVersionString>0.185.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.20/Viska.zip"
+                sparkle:edSignature="eUelWfwnY2cYsRt87JGplwAvi9jnlY8qI8PksXxY53ivXnzpj79S3/q5RDrTrVvOCLzMp4ugtx5aNcCMvyWNDw=="
+                length="73349252"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.19</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.18</title>
             <description>
