@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.19</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.19</h2>
+                    <ul>
+                        <li>Tooltips added throughout the Control Center — hover any button to see what it does.</li>
+                        <li>Voice Mode status now stays in sync across all views automatically.</li>
+                        <li>A new Customise button in Simple Mode makes personalising your layout easier.</li>
+                        <li>Tapping the collapsed indicator now works reliably when Voice Mode is active.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 21 apr. 2026 13:48:40 +0000</pubDate>
+            <sparkle:version>218</sparkle:version>
+            <sparkle:shortVersionString>0.185.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.19/Viska.zip"
+                sparkle:edSignature="EZuUMaGZIfvRB2XmrKzPnKf5dcYp8Qq8Fy5tAf34qo1xn/qtyiaiCgx/li2yHbHaWzYs2YizwevDrvUDeBkECQ=="
+                length="73339677"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.18</title>
             <description>
                 <![CDATA[
@@ -31,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.17</title>
             <description>
