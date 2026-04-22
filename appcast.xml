@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.32</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.32</h2>
+                    <ul>
+                        <li>Fixed iCloud Sync not connecting after recent updates.</li>
+                        <li>Improved app stability and reliability on macOS.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 22 apr. 2026 21:20:22 +0000</pubDate>
+            <sparkle:version>249</sparkle:version>
+            <sparkle:shortVersionString>0.185.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.32/Viska.zip"
+                sparkle:edSignature="6j3FOy4ayUZ5AoXVLvtYHDqSAWryT7aNWYAuKMIe6iX21aIX9IyQcj5uUZorT6lcYhDS0/JZ6I8VfYTN1NJTCA=="
+                length="73504347"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.31</title>
             <description>
                 <![CDATA[
@@ -28,7 +51,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.29</title>
             <description>
