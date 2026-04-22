@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.28</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.28</h2>
+                    <ul>
+                        <li>iCloud Sync now works consistently across Mac, iPhone, and Apple Watch.</li>
+                        <li>Resetting your sync data now works reliably on all devices.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 22 apr. 2026 19:09:41 +0000</pubDate>
+            <sparkle:version>245</sparkle:version>
+            <sparkle:shortVersionString>0.185.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.28/Viska.zip"
+                sparkle:edSignature="gxNaa4rFUzOl1OyUlfxuRtulxlmMWVdEh4NCasuzYIcuTePEUQJZrV+4SIdDoB+9NoAnGqLl+jtNNntUUfg9Bw=="
+                length="73503607"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.26</title>
             <description>
                 <![CDATA[
@@ -29,7 +53,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.25</title>
             <description>
