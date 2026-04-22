@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.25</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.25</h2>
+                    <ul>
+                        <li>New waveform visualizer shows your voice as a live spectrum under the microphone.</li>
+                        <li>Swedish transcription now available as an on-device local model (no internet required).</li>
+                        <li>New Account page lets you view your subscription and manage your plan directly in the app.</li>
+                        <li>Notes now auto-categorize with AI, and the Prompt Library is available on iOS.</li>
+                        <li>Language detection no longer shows incorrect flags for unknown or automatic language.</li>
+                        <li>Stability and performance improvements across recording, sync, and settings.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 22 apr. 2026 12:45:47 +0000</pubDate>
+            <sparkle:version>240</sparkle:version>
+            <sparkle:shortVersionString>0.185.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.25/Viska.zip"
+                sparkle:edSignature="zH32MsaoSGZdDt4+6zKnC4yWBJ4lJGjT6s1Gc9+bAWDt+Ckd3teAjW9PoRVtpU5GqaUQhE1jfQE61mexN41WBQ=="
+                length="73502752"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.23</title>
             <description>
                 <![CDATA[
@@ -31,7 +58,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.20</title>
             <description>
