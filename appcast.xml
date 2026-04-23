@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.185.35</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.185.35</h2>
+                    <ul>
+                        <li>iOS recording history now shows more transcripts with compact rows and a tighter layout.</li>
+                        <li>"Clear All" now correctly removes recordings from iCloud sync.</li>
+                        <li>Fixed an incorrect warning shown to Simple mode users.</li>
+                        <li>Stability and reliability improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 23 apr. 2026 07:56:22 +0000</pubDate>
+            <sparkle:version>695</sparkle:version>
+            <sparkle:shortVersionString>0.185.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.185.35/Viska.zip"
+                sparkle:edSignature="jIaLblJyumchnlq5Zb3hMWFGykNKAfOHQYfmEHIoo6SwOhT2V2eQ+b2w8dKzi0MKxPId+Bd2KDABZf/TVQE7AA=="
+                length="73525486"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.34</title>
             <description>
                 <![CDATA[
@@ -29,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.33</title>
             <description>
