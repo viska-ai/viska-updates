@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.200.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.200.2</h2>
+                    <ul>
+                        <li>Introducing the Viska Keyboard — record and transcribe directly from any app's keyboard.</li>
+                        <li>A friendly notification now appears when the service is temporarily busy.</li>
+                        <li>Processing now shows playful rotating phrases like "Whispering..." while Viska works.</li>
+                        <li>The recording strip has a cleaner, more compact layout with card-style controls.</li>
+                        <li>Stability and reliability improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 23 apr. 2026 23:52:20 +0000</pubDate>
+            <sparkle:version>700</sparkle:version>
+            <sparkle:shortVersionString>0.200.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.200.2/Viska.zip"
+                sparkle:edSignature="LBeYZ0AH+hUlkAR4PnCRSDIOz+O67yV66L9Sb0kBmbErF3fuCDTcRk524aAuXj8E03xT1BuQPMWWSmWz3MylBg=="
+                length="73478275"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.200.1</title>
             <description>
                 <![CDATA[
@@ -32,7 +58,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.35</title>
             <description>
