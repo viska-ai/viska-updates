@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.200.1</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.200.1</h2>
+                    <ul>
+                        <li>Redesigned recording history with smarter filters and a cleaner information layout.</li>
+                        <li>Recording screen now shows a full transcript preview matching your history view.</li>
+                        <li>Refreshed iOS interface with improved journal calendar and recording controls.</li>
+                        <li>Widgets updated with visual and content improvements.</li>
+                        <li>Fixed a broken "Copy" button in the history context menu.</li>
+                        <li>Stability improvements and minor visual polish throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 23 apr. 2026 10:18:29 +0000</pubDate>
+            <sparkle:version>697</sparkle:version>
+            <sparkle:shortVersionString>0.200.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.200.1/Viska.zip"
+                sparkle:edSignature="KbQmjVPN/ztJ53xrQF9BmkHI70SIiXQRdsgM44MzHGJs9MPMKtFReWap7D4TUctq34rjpr1MdKUOB5Y3Oc8jBw=="
+                length="73474809"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.185.35</title>
             <description>
                 <![CDATA[
@@ -30,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.185.34</title>
             <description>
