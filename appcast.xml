@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.200.5</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.200.5</h2>
+                    <ul>
+                        <li>New: Dev Notes mode — dictate voice memos that AI formats into structured bug reports and feature requests.</li>
+                        <li>New: 79 built-in prompt templates with search and category picker, now available on iOS.</li>
+                        <li>Improved: Notes tab gains time filters, period grouping, tag editor, and tag filtering.</li>
+                        <li>Improved: Choose which output modes are visible in Control Center on macOS and iOS.</li>
+                        <li>Fixed: Prompt templates now correctly apply substitutions when triggered from iOS.</li>
+                        <li>Stability and reliability improvements across iOS and macOS.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 24 apr. 2026 20:47:50 +0000</pubDate>
+            <sparkle:version>705</sparkle:version>
+            <sparkle:shortVersionString>0.200.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.200.5/Viska.zip"
+                sparkle:edSignature="/llBKYLvl+t3Zeq0HrXRZBHnw0T0hBE9RmalSk+G2hh7IUtkNBYGoxfGYkD9wcAU1HkFbtafyyW/6g2GVXfyCQ=="
+                length="73972750"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.200.2</title>
             <description>
                 <![CDATA[
@@ -31,7 +58,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.200.1</title>
             <description>
