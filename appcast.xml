@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.200.6</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.200.6</h2>
+                    <ul>
+                        <li>Improved AI formatting accuracy — responses are now more consistent across all modes.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>fre, 24 apr. 2026 21:25:20 +0000</pubDate>
+            <sparkle:version>706</sparkle:version>
+            <sparkle:shortVersionString>0.200.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.200.6/Viska.zip"
+                sparkle:edSignature="biKvFfSLkOeQ+Fu9FnXomOS17do0ytxFk1EjqTWdm5Jsiglyp5r6cM4hWRWMafVxI6FUPYxlU9TsuuOKrYplAg=="
+                length="73977799"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.200.5</title>
             <description>
                 <![CDATA[
@@ -32,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.200.2</title>
             <description>
