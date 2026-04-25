@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.2</h2>
+                    <ul>
+                        <li>New Apple Watch complications let you start and stop recording right from your watch face.</li>
+                        <li>Recording Library received a full visual polish and improved layout.</li>
+                        <li>Watch now stays properly signed in without needing to re-authenticate.</li>
+                        <li>Keyboard and app settings are now separate, so changes in one no longer affect the other.</li>
+                        <li>Local translation is correctly gated and no longer appears when unavailable.</li>
+                        <li>Stability improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 25 apr. 2026 23:05:10 +0000</pubDate>
+            <sparkle:version>716</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.2/Viska.zip"
+                sparkle:edSignature="+O6ZsRaJXdSQEAgvSTkiuq0JQwXSXVaQErSkeeInSDHILUXuGTyyD3BYBDnRjg4qBndVQ95wx9VIMDQ0B6NeBg=="
+                length="74618167"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.200.8</title>
             <description>
                 <![CDATA[
@@ -32,7 +59,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.200.7</title>
             <description>
