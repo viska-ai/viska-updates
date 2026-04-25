@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.200.8</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.200.8</h2>
+                    <ul>
+                        <li>Dev Notes now sync across all your devices via iCloud automatically.</li>
+                        <li>New first-launch tutorial walks you through Viska on iOS with helpful tips.</li>
+                        <li>Resolve or delete Dev Note activity with always-visible buttons — no more hunting.</li>
+                        <li>Connect your GitHub account to link notes directly to your repos.</li>
+                        <li>Mark bugs as fixed and features as implemented right from Dev Notes.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 25 apr. 2026 20:32:27 +0000</pubDate>
+            <sparkle:version>710</sparkle:version>
+            <sparkle:shortVersionString>0.200.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.200.8/Viska.zip"
+                sparkle:edSignature="wIyeZFvWh2B4GWlu+qAMV+nekMjnP2LNIi0nhnX/taMqA0ekYOE/YjYlgljatLOdx4xlX87KOHb9l+U/trKMAA=="
+                length="74608957"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.200.7</title>
             <description>
                 <![CDATA[
@@ -32,7 +59,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.200.6</title>
             <description>
