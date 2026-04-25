@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.200.7</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 0.200.7</h2>
+                    <ul>
+                        <li>The keyboard extension now shows a live audio visualizer while you record.</li>
+                        <li>Pick your local AI model directly from the keyboard without opening the app.</li>
+                        <li>Settings now display which local transcription engine is active (Parakeet or WhisperKit).</li>
+                        <li>New ultra-fast streaming preset delivers transcription results even quicker.</li>
+                        <li>Fixed Dynamic Island notifications sometimes getting stuck from a previous session.</li>
+                        <li>Stability and reliability improvements to keyboard recording and paste.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>lör, 25 apr. 2026 00:05:02 +0000</pubDate>
+            <sparkle:version>708</sparkle:version>
+            <sparkle:shortVersionString>0.200.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v0.200.7/Viska.zip"
+                sparkle:edSignature="FASMRn2g3/AVOH4QY5On47qjJODs9MmlTTdj53DDSkU2oC66vD6i5LQ6riNMKG7PS3UGJp9hb9NYMYidzTyjCQ=="
+                length="73979015"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.200.6</title>
             <description>
                 <![CDATA[
@@ -28,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.200.5</title>
             <description>
