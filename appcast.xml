@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.3</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.3</h2>
+                    <ul>
+                        <li>New interactive Quick Tour with voice narration walks you through every Viska feature.</li>
+                        <li>Haptic feedback when switching tabs and navigating settings (opt-in in Settings).</li>
+                        <li>Local Models redesigned — download progress, quick settings, and swipe-to-delete now built in.</li>
+                        <li>Recording language now defaults to your device's language automatically.</li>
+                        <li>Apple Watch app redesigned to fit every screen, from 40mm SE to 49mm Ultra.</li>
+                        <li>Stability and interface polish across iOS, watchOS, and the Viska Keyboard.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 27 apr. 2026 15:52:30 +0000</pubDate>
+            <sparkle:version>722</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.3/Viska.zip"
+                sparkle:edSignature="eyg64bN/zaS4RGIhpvstop/PXa40QpAWQnkmhL92sSxqik4x2JaXIo1zB8hl9iPKZzMuE9ZomW2cWwOLx/UoDQ=="
+                length="74487438"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.2</title>
             <description>
                 <![CDATA[
@@ -32,7 +59,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 0.200.8</title>
             <description>
