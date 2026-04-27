@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.4</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.4</h2>
+                    <ul>
+                        <li>Improved in-app guide accuracy for AI Mode controls.</li>
+                        <li>Translation and localization improvements across supported languages.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>mån, 27 apr. 2026 16:19:08 +0000</pubDate>
+            <sparkle:version>724</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.4/Viska.zip"
+                sparkle:edSignature="BEjxrTz94OJY7SWDcKjvnTah3ozoh47fsoblkE0vuhP8CYgXUOA81E8EDpP327WLZztam4GwNwdLht8nehJ9DQ=="
+                length="74487224"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.3</title>
             <description>
                 <![CDATA[
@@ -32,7 +56,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.2</title>
             <description>
