@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.5</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.5</h2>
+                    <ul>
+                        <li>Reformat Mode now produces sharper, more consistent results across all styles.</li>
+                        <li>The record button is no longer shown when no on-device model is installed.</li>
+                        <li>App is now fully translated into 31 languages.</li>
+                        <li>Smoother avatar animation during AI responses.</li>
+                        <li>Stability and interface polish improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 28 apr. 2026 14:12:45 +0000</pubDate>
+            <sparkle:version>726</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.5/Viska.zip"
+                sparkle:edSignature="Cr2bQY4bkp1xRyti2Nn8DwDw7k/pvYp+IwkgJxrjZ+6dEKlGADgFnjf4FIyLRZYnRBBYsWf/znJ9fgcvCM3XAg=="
+                length="74547718"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.4</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.3</title>
             <description>
