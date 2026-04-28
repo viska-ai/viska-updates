@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.7</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.7</h2>
+                    <ul>
+                        <li>New voice tour during setup — tap to play and learn Viska at your own pace.</li>
+                        <li>Download multiple local AI models at the same time, with a working cancel button.</li>
+                        <li>Recording button sits higher on screen for easier one-thumb reach.</li>
+                        <li>Record button now shows a clean metallic rim at all times.</li>
+                        <li>Stability and polish improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 28 apr. 2026 16:38:37 +0000</pubDate>
+            <sparkle:version>730</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.7/Viska.zip"
+                sparkle:edSignature="RYQqhfcrJY+5n245XkkORFKh660EwPaOe8JbmT+gpOJW/YiJoxXWZOJuHmotrau7nmBLx60DRJ/zDNMJmyvyAg=="
+                length="74547663"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.5</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.4</title>
             <description>
