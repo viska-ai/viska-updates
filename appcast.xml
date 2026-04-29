@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.10</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.10</h2>
+                    <ul>
+                        <li>The iOS keyboard extension now works natively on iPad.</li>
+                        <li>Word predictions now appear above the keyboard as you type.</li>
+                        <li>Emoji search now uses the real system keyboard for faster, more accurate input.</li>
+                        <li>AI formatting, summarization, and translation are smarter and more accurate.</li>
+                        <li>Stability and performance improvements throughout the keyboard extension.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 29 apr. 2026 21:09:12 +0000</pubDate>
+            <sparkle:version>734</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.10/Viska.zip"
+                sparkle:edSignature="b6/CavqU6Ykt0B3rz7OgAadFYmSPSEDn7PtIAbyMMfUcmpz5/F4zNTOlH4MfsclG+Mu3Mi/576gS9K+a2ATXBw=="
+                length="74575325"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.9</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.8</title>
             <description>
