@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.8</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.8</h2>
+                    <ul>
+                        <li>New DevNote entries now open full-screen on iOS for easier writing.</li>
+                        <li>GitHub account linking now uses a polished, professional sign-in flow.</li>
+                        <li>Recording Library navigation is smoother and more reliable on iOS.</li>
+                        <li>Dev Notes now sync seamlessly between iPhone and Mac.</li>
+                        <li>Stability and performance improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 29 apr. 2026 11:26:27 +0000</pubDate>
+            <sparkle:version>731</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.8/Viska.zip"
+                sparkle:edSignature="FegQuyXuPzOb5HV1ifrx6mfPgWWSTYKYbMUCa/LFKW+p23BYrQs8iD7YzehRvNvLAlLkGSjYqe+nznb8vhFEDw=="
+                length="74568386"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.7</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.5</title>
             <description>
