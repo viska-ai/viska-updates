@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.9</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.9</h2>
+                    <ul>
+                        <li>Keyboard typing is now faster and more responsive with a full performance rewrite.</li>
+                        <li>Cursor drag and globe long-press now work directly from the keyboard.</li>
+                        <li>The backend model picker now shows accurate download progress and status.</li>
+                        <li>Fixed a crash that could occur when launching the app on iOS.</li>
+                        <li>Stability and performance improvements across the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>ons, 29 apr. 2026 15:06:57 +0000</pubDate>
+            <sparkle:version>732</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.9/Viska.zip"
+                sparkle:edSignature="6zmhKclJy9je9vcFSLEB45of0QGcwQjrRU5e8gtyck8xGRu5P5sRVW9CndNkubqJ6tCjcxF96yFUbfMhXr2HCA=="
+                length="74568173"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.8</title>
             <description>
                 <![CDATA[
@@ -31,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.7</title>
             <description>
