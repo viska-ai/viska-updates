@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.15</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.15</h2>
+                    <ul>
+                        <li>Fixed an issue where AI cleanup could occasionally insert stray AI-generated replies into your text.</li>
+                        <li>Improved reliability of the fast (FLOW) transcription mode.</li>
+                        <li>General stability improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 23 juli 2026 14:50:20 +0000</pubDate>
+            <sparkle:version>740</sparkle:version>
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.15/Viska.zip"
+                sparkle:edSignature="MhHPB77zZbCdZeGBz/QlqFQEh47L4//iDkk5gNJGZVOD19q9ttveetXxiBcy7mHrTd4mm1xkZmJg+sTAx4p7BQ=="
+                length="63270567"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.14</title>
             <description>
                 <![CDATA[
@@ -30,7 +54,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.13</title>
             <description>
