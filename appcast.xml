@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.14</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.14</h2>
+                    <ul>
+                        <li>Improved accuracy for hallucinated text that sometimes appeared in transcripts</li>
+                        <li>Enhanced Swedish grammar correction, including a new optional local polish mode</li>
+                        <li>Fixed an issue where Swedish grammar cleanup could alter correctly spelled words</li>
+                        <li>Stability and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 23 juli 2026 14:22:25 +0000</pubDate>
+            <sparkle:version>739</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.14/Viska.zip"
+                sparkle:edSignature="eoXIJ9BOGZlh6pFierAxuSMTgAoLjg/E1n4POsM7rQDIUjt4ZplyjKwHI+Z2/culNIq39or/hLyUZNbBiqhWBQ=="
+                length="63269451"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.13</title>
             <description>
                 <![CDATA[
@@ -32,7 +57,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.10</title>
             <description>
