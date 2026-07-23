@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.13</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.13</h2>
+                    <ul>
+                        <li>Introducing built-in web app support, so you can use Viska right from your browser.</li>
+                        <li>Upgraded local AI models for better on-device transcription and formatting quality.</li>
+                        <li>Improved hallucination detection to catch and remove garbled or repeated text more reliably.</li>
+                        <li>Added flexible subscription options alongside the existing App Store plan.</li>
+                        <li>Expanded language coverage with translation improvements across the app.</li>
+                        <li>Stability and performance improvements throughout the app.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tors, 23 juli 2026 11:47:34 +0000</pubDate>
+            <sparkle:version>738</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.13/Viska.zip"
+                sparkle:edSignature="5YZT8ABDN/UUgs7+xp7x/2eEZFKijIyqZe82ES0LOPHC5FpQu+UaWzwH87tVHqQP7GiS77OGutHSqqshZXfdAg=="
+                length="63251220"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.10</title>
             <description>
                 <![CDATA[
@@ -31,7 +58,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.9</title>
             <description>
