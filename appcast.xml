@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.16</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in 1.0.16</h2>
+                    <ul>
+                        <li>Improved account and device management, including the ability to reactivate a removed device.</li>
+                        <li>More reliable AI formatting output, with extra safeguards against stray AI replies.</li>
+                        <li>Automatic cleanup of old, inactive sign-in sessions for better security.</li>
+                        <li>Fixed duplicate device entries appearing in device management.</li>
+                        <li>Stability and performance improvements.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>tis, 28 juli 2026 07:55:43 +0000</pubDate>
+            <sparkle:version>741</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://dl.viska-ai.com/releases/v1.0.16/Viska.zip"
+                sparkle:edSignature="YFLZP4pi6vGcVdNZyYXYdTbOvk2CsbIpOk65t/vj8GFbyqACvYB2r+w4adLw4Bpm5yAEc0lfxwBz0n1WMj+/Aw=="
+                length="63297830"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.15</title>
             <description>
                 <![CDATA[
@@ -29,7 +55,6 @@
                 type="application/octet-stream"
             />
         </item>
-
         <item>
             <title>Version 1.0.14</title>
             <description>
